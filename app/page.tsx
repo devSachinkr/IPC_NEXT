@@ -349,9 +349,7 @@ export default function IPCDebuggerPage() {
                         endAngle={-180}
                       >
                         <RadialBar
-                          minAngle={15}
                           background={{ fill: "#07120a" }}
-                          clockWise
                           dataKey="value"
                           cornerRadius={10}
                         />
