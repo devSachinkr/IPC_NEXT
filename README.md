@@ -49,5 +49,5 @@ A futuristic **IPC (Inter-Process Communication) Debugger Dashboard** built with
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/ipc-debugger-tool.git
+git clone https://github.com/devSachinkr/IPC_NEXT.git
 cd ipc-debugger-tool
